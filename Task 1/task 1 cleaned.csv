@@ -1,0 +1,27 @@
+,Member ID,Book ID,Checkout Date,book_id,title,author,genre,pages,publication_year,publisher
+0,1026,522,2025-07-11,522,The Puzzle Merchant,Karim Elwy,Mystery,104,2016.0,Cairo Young Readers
+1,1049,520,2025-07-11,520,The Copper Telescope,Jasmine Wahdan,Science Fiction,136,2009.0,Oasis Books
+2,1062,525,2025-07-05,525,Storms and Sailboats,Mahmoud Rafei,Adventure,297,2015.0,Oasis Books
+3,1065,520,2025-07-07,520,The Copper Telescope,Jasmine Wahdan,Science Fiction,136,2009.0,Oasis Books
+4,1104,515,2025-07-07,515,Songs of the Oasis,Hoda Bakry,Poetry,316,2022.0,Cairo Young Readers
+5,1009,503,2025-07-09,503,The Lantern Maker,Adel Roushdy,Historical,259,2016.0,Nile Press
+6,1063,522,2025-07-07,522,The Puzzle Merchant,Karim Elwy,Mystery,104,2016.0,Cairo Young Readers
+7,1022,511,2025-07-12,511,Winter in Alexandria,Farida Anwar,Historical,117,2016.0,Nile Press
+8,1029,523,2025-07-09,523,Footsteps in the Dust,Laila Shokry,Historical,276,2018.0,Oasis Books
+9,1201,509,2025-07-10,509,Marbles and Mirrors,Diaa Sultan,Mystery,221,2011.0,Nile Press
+10,1005,513,2025-07-10,513,Circuits for Beginners,Galal Mounir,Science,294,2021.0,Oasis Books
+11,1104,526,2025-07-05,526,The Clockwork Orchard,Mahmoud Rafei,Science Fiction,125,2016.0,Delta House
+12,1058,518,2025-07-08,518,The Ninth Lighthouse,Hani Nagati,Adventure,163,2011.0,Delta House
+13,1002,521,2025-07-08,521,A Garden of Equations,Karim Elwy,Science,211,2024.0,Cairo Young Readers
+14,1150,530,2025-07-10,530,The Sandstone Key,Sara Tantawy,Adventure,208,2012.0,Oasis Books
+15,1041,504,2025-07-05,504,Rooftop Astronomers,Adel Roushdy,Science,319,2009.0,Cairo Young Readers
+16,1055,526,2025-07-11,526,The Clockwork Orchard,Mahmoud Rafei,Science Fiction,125,2016.0,Delta House
+17,1061,513,2025-07-06,513,Circuits for Beginners,Galal Mounir,Science,294,2021.0,Oasis Books
+18,1012,509,2025-07-11,509,Marbles and Mirrors,Diaa Sultan,Mystery,221,2011.0,Nile Press
+19,1007,510,2025-07-07,510,The Missing Metronome,Diaa Sultan,Mystery,134,2013.0,Cairo Young Readers
+20,1073,530,2025-07-07,530,The Sandstone Key,Sara Tantawy,Adventure,208,2012.0,Oasis Books
+21,1003,501,2025-07-08,501,The Silver Kite,Amina Darwish,Adventure,128,2017.0,Nile Press
+22,1017,507,2025-07-11,507,Fossils and Fireflies,Dalia Serry,Science,160,2024.0,Nile Press
+23,1061,504,2025-07-06,504,Rooftop Astronomers,Adel Roushdy,Science,319,2009.0,Cairo Young Readers
+24,1201,523,2025-07-08,523,Footsteps in the Dust,Laila Shokry,Historical,276,2018.0,Oasis Books
+25,1041,512,2025-07-06,512,The Cartographer's Cat,Farida Anwar,Adventure,238,2022.0,Delta House
