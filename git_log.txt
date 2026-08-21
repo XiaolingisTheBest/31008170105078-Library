@@ -1,3 +1,15 @@
+commit 31746f8308506e6102350251f27cda507b2e49fa
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 18:24:12 2026 +0300
+
+    adding the fairness reflection pdf
+
+commit 329eac38f1faa0a5f30a668a9f1650e09f9721ab
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 18:23:18 2026 +0300
+
+    Adding fairness reflection md and pdf file
+
 commit 7b2d7ba4ba5cf8b2422843b89b3b816263cda62c
 Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
 Date:   Fri Aug 21 17:45:15 2026 +0300
