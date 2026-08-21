@@ -42,17 +42,17 @@ recent checkout records.
 - Text-based result documentation
 
 ## Project Structure
-
-31008170105078-Library/
-╠═ City_API.json — city data source
-╠═ City_Database.db — library database
-╠═ City_Library.html — library web page
-╠═ Task_1/
-║  ╠═ 31008170105078-Library .ipynb — Python analysis notebook
-║  ╚═ task1_sql_answers.txt — SQL analysis results and project documentation
-╚═ Task_2/
-    ╚═ task2_cleaned_data.csv — cleaned data output
-
+```
+    31008170105078-Library/
+    ╠═ City_API.json — city data source
+    ╠═ City_Database.db — library database
+    ╠═ City_Library.html — library web page
+    ╠═ Task_1/
+    ║  ╠═ 31008170105078-Library .ipynb — Python analysis notebook
+    ║  ╚═ task1_sql_answers.txt — SQL analysis results and project documentation
+    ╚═ Task_2/
+        ╚═ task2_cleaned_data.csv — cleaned data output
+```
 ## Conclusion
 
 Relational databases provide structured, consistent, and efficient access to library
