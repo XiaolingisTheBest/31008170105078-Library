@@ -4,6 +4,138 @@
 
                                                             ### The Answer To the First Question ###
 
+Checkout Per member_id:
 
+Member No.'1001': 1 checkout(s)
+Member No.'1002': 2 checkout(s)
+Member No.'1003': 9 checkout(s)
+Member No.'1005': 3 checkout(s)
+Member No.'1006': 1 checkout(s)
+Member No.'1007': 3 checkout(s)
+Member No.'1008': 19 checkout(s)
+Member No.'1009': 1 checkout(s)
+Member No.'1010': 18 checkout(s)
+Member No.'1011': 2 checkout(s)
+Member No.'1013': 2 checkout(s)
+Member No.'1014': 1 checkout(s)
+Member No.'1015': 3 checkout(s)
+Member No.'1016': 7 checkout(s)
+Member No.'1017': 2 checkout(s)
+Member No.'1018': 17 checkout(s)
+Member No.'1019': 3 checkout(s)
+Member No.'1020': 7 checkout(s)
+Member No.'1022': 6 checkout(s)
+Member No.'1023': 1 checkout(s)
+Member No.'1024': 17 checkout(s)
+Member No.'1026': 3 checkout(s)
+Member No.'1027': 18 checkout(s)
+Member No.'1028': 3 checkout(s)
+Member No.'1030': 16 checkout(s)
+Member No.'1031': 1 checkout(s)
+Member No.'1032': 6 checkout(s)
+Member No.'1034': 25 checkout(s)
+Member No.'1035': 1 checkout(s)
+Member No.'1036': 1 checkout(s)
+Member No.'1037': 2 checkout(s)
+Member No.'1039': 2 checkout(s)
+Member No.'1040': 2 checkout(s)
+Member No.'1041': 2 checkout(s)
+Member No.'1044': 21 checkout(s)
+Member No.'1046': 1 checkout(s)
+Member No.'1047': 16 checkout(s)
+Member No.'1049': 1 checkout(s)
+Member No.'1050': 11 checkout(s)
+Member No.'1052': 1 checkout(s)
+Member No.'1053': 5 checkout(s)
+Member No.'1054': 6 checkout(s)
+Member No.'1055': 2 checkout(s)
+Member No.'1057': 10 checkout(s)
+Member No.'1058': 3 checkout(s)
+Member No.'1059': 7 checkout(s)
+Member No.'1060': 2 checkout(s)
+Member No.'1061': 8 checkout(s)
+Member No.'1062': 7 checkout(s)
+Member No.'1065': 17 checkout(s)
+Member No.'1067': 3 checkout(s)
+Member No.'1068': 6 checkout(s)
+Member No.'1070': 3 checkout(s)
+Member No.'1071': 2 checkout(s)
+Member No.'1072': 14 checkout(s)
+Member No.'1073': 2 checkout(s)
+Member No.'1074': 2 checkout(s)
+Member No.'1075': 9 checkout(s)
+Member No.'1076': 7 checkout(s)
+Member No.'1077': 6 checkout(s)
+Member No.'1079': 10 checkout(s)
+Member No.'1080': 2 checkout(s)
+
+
+                                                            ### The Answer To the Second Question ###
+
+Books whose author contains 'h':
+    book_id          author
+0       501   Amina Darwish
+1       502   Amina Darwish
+2       503    Adel Roushdy
+3       504    Adel Roushdy
+4       505       Aya Hafez
+5       506       Aya Hafez
+6       515      Hoda Bakry
+7       516      Hoda Bakry
+8       517     Hani Nagati
+9       518     Hani Nagati
+10      519  Jasmine Wahdan
+11      520  Jasmine Wahdan
+12      523    Laila Shokry
+13      524    Laila Shokry
+14      525   Mahmoud Rafei
+15      526   Mahmoud Rafei
+16      527  Mona Kholoussy
+17      528  Mona Kholoussy
+18      531     Samir Zohdy
+19      532     Samir Zohdy
+
+                                                            ### The Answer To the Third Question ###
+
+Top 5 Most Borrowed Books:
+
+ book_id                  title  borrow_count
+     501        The Silver Kite            57
+     507  Fossils and Fireflies            55
+     513 Circuits for Beginners            46
+     519       Kites Over Cairo            38
+     525   Storms and Sailboats            25
+
+
+                                                            ### The Answer To the Fourth Question ###
+
+Top 10 Members with the Most Borrowed Books:
+member_id
+1001     1
+1002     2
+1003     9
+1005     3
+1006     1
+1007     3
+1008    19
+1009     1
+1010    18
+1011     2
+Name: borrow_count, dtype: int64
+
+                                                            ### The Answer To the Fifth Question ###
+
+The Second Set After The First 10 Most Recent Checkouts:
+   checkout_id  member_id  book_id checkout_date return_date
+0         9174       1024      528    2025-12-16  2026-01-07
+1         9353       1075      528    2025-12-13  2025-12-30
+2         9076       1008      529    2025-12-12  2025-12-20
+3         9295       1061      513    2025-12-12  2026-01-01
+4         9189       1032      507    2025-12-08  2025-12-16
+5         9258       1050      529    2025-12-07  2025-12-21
+6         9190       1030      502    2025-12-04  2025-12-18
+7         9087       1020      511    2025-12-03  2025-12-13
+8         9312       1068      506    2025-12-01  2025-01-11
+9         9197       1030      501    2025-11-26  2025-12-01
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 # DECI AI Level 3 Second Term Project                                 END OF CODE :]                                                                 Made By Mostafa Ashraf Kamel
