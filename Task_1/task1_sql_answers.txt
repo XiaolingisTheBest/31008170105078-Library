@@ -1,8 +1,40 @@
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 # DECI AI Level 3 Second Term Project                                 SQL Answers File :]                                                           Made By Mostafa Ashraf Kamel
 
+                                                                    ### DATA SOURCE COMPARISON: WEB PAGES VS. DATABASES ###
 
-                                                            ### The Answer To the First Question ###
+Web pages and databases serve distinct purposes as data sources, each offering
+unique trade-offs in structure, accessibility, and reliability. 
+
++-----------------+------------------------------------+------------------------------------+ 
+| Feature         | Web Page                           | Database                           |
++-----------------+------------------------------------+------------------------------------+ 
+| Structure       | Unstructured or semi-structured    | Highly structured tables, rows,    |
+|                 | HTML code.                         | and columns.                       |
++-----------------+------------------------------------+------------------------------------+ 
+| Data Extraction | Requires specialized web scraping  | Requires standard query languages  |
+|                 | and parsing tools.                 | like SQL.                          |
++-----------------+------------------------------------+------------------------------------+ 
+| Consistency     | Dynamic; visual layouts and data   | Static; strict schemas maintain    |
+|                 | formats change frequently.         | long-term format consistency.      |
++-----------------+------------------------------------+------------------------------------+ 
+| Speed           | Slower due to network latency and  | Highly optimized for rapid and     |
+|                 | page rendering times.              | massive data retrieval.            |
++-----------------+------------------------------------+------------------------------------+ 
+| Accessibility   | Publicly available to anyone with  | Restricted access requiring secure |
+|                 | an internet connection.            | database credentials.              |
++-----------------+------------------------------------+------------------------------------+ 
+
+Summary Reflection:
+Web pages are ideal for gathering diverse, public, and real-time information, but
+they require significant data cleaning and are prone to extraction errors when site
+layouts change. In contrast, databases provide a stable, secure, and highly efficient
+environment for managing internal, structured data. Choosing between them depends on
+whether a project prioritizes the vast openness of the external web or the controlled
+precision of an internal structured system.
+
+
+                                                                            ### The Answer To the First Question ###
 
 Checkout Per member_id:
 
@@ -137,5 +169,22 @@ The Second Set After The First 10 Most Recent Checkouts:
 7         9087       1020      511    2025-12-03  2025-12-13
 8         9312       1068      506    2025-12-01  2025-01-11
 9         9197       1030      501    2025-11-26  2025-12-01
+
+                                                    ### What changes i did to fix the database dataframe ###
+
+
+The Database DataFrame Shape [383 rows x 5 columns]
+
+Changes made to checkouts:
+- Duplicate rows removed: 8
+
+Changes made to books:
+- Duplicate rows removed: 0
+- No changes were needed.
+
+Changes made to members:
+- Duplicate rows removed: 0
+- No changes were needed.
+
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 # DECI AI Level 3 Second Term Project                                 END OF CODE :]                                                                 Made By Mostafa Ashraf Kamel
