@@ -42,7 +42,7 @@ recent checkout records.
 - Text-based result documentation
 
 ## Project Structure
-```
++ ```
     31008170105078-Library/
     ╠═ City_API.json — city data source
     ╠═ City_Database.db — library database
