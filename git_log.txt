@@ -1,0 +1,59 @@
+commit 7b2d7ba4ba5cf8b2422843b89b3b816263cda62c
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 17:45:15 2026 +0300
+
+    modified:   README.md
+
+commit 88cb8c1175cfaf4b5205a36f4b0b9ef168a81b6a
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 17:43:32 2026 +0300
+
+    modified:   README.md
+
+commit aabe3f92535efd6ae3501e7703b9abb04000afb1
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 17:41:55 2026 +0300
+
+    modified:   README.md
+
+commit a99ed685c5c6b6aa1dc96266cabd26c1142a714a
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 17:40:36 2026 +0300
+
+    Adding README file
+
+commit 32e3275dc21faeea19bc27affa216e2e0ace6be7
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 17:35:05 2026 +0300
+
+    Adding repo link to the notebook
+
+commit 499095e76860833e62ce2b62afc2a8751024d825
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 16:14:53 2026 +0300
+
+    Completing Task 2 and making the Cleaned Dataset and Data Integrity Report
+
+commit f90155fa8ac6249e0c9fd57c030bf47b796a6632
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 03:44:27 2026 +0300
+
+    Adding the SQL answers for Task 1 and removing the
+
+commit 4d2c9476469045434604a3236a6b89b193360e3b
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Fri Aug 21 02:25:37 2026 +0300
+
+    Polishing the code and adding comments to explain the logic and functionality of the code.
+
+commit 7c13aafd1d1b52420c9dc092010260caf69f0b7a
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Tue Aug 18 13:10:09 2026 +0300
+
+    Completing The First Five Subtasks of Task 1
+
+commit c1c95f64370c5b13d182f90e55565f25d3005eee
+Author: Xiaolingisdabest <i.am.real.mostafa@gmail.com>
+Date:   Tue Aug 18 13:04:45 2026 +0300
+
+    Completing The First 5 Tasks of the City Library Project
